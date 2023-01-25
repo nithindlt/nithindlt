@@ -1,7 +1,4 @@
 - 👋 Hi, I’m निധിin ;@nithindlt
-- 👀 I’m interested in python , numerical Computing, Deep learning and Machine learning
-- 🌱 I’m currently learning Creative Coding 
-- 💞️ I’m looking to collaborate on anything interseting.
 - 📫 How to reach me
       - Email    -- nithin@dlt.sg, 
       - twitter  -- nithinivi
